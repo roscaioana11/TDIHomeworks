@@ -22,6 +22,7 @@ namespace Lab1Ex6
                 numbers.Add(int.Parse(Console.ReadLine()));
             }
 
+            numbers.Sort();
             numbers.Reverse();
             
             numbers.ForEach(number => Console.Write($"{number} "));
