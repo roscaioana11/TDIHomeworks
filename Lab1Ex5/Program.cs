@@ -19,11 +19,11 @@ namespace Lab1Ex5
                 numbers[i] = int.Parse(Console.ReadLine());
             }
 
-            for (int i = 0; i < numbers.Length - 1; i++)
+            for (int i = 0; i < numbers.Length; i++)
             {
                 for (int j = 0; j < numbers.Length; j++)
                 {
-                    if (numbers[i] > numbers[j])
+                    if (numbers[i] < numbers[j])
                     {
                         int temp = numbers[i];
                         numbers[i] = numbers[j];
