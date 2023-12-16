@@ -1,0 +1,7 @@
+D:\CSharp and dotNET classes\TDIHomeworks\Lab3Ex5\bin\Debug\Lab3Ex5.exe
+D:\CSharp and dotNET classes\TDIHomeworks\Lab3Ex5\bin\Debug\Lab3Ex5.pdb
+D:\CSharp and dotNET classes\TDIHomeworks\Lab3Ex5\obj\Debug\Lab3Ex5.csproj.AssemblyReference.cache
+D:\CSharp and dotNET classes\TDIHomeworks\Lab3Ex5\obj\Debug\Lab3Ex5.csproj.SuggestedBindingRedirects.cache
+D:\CSharp and dotNET classes\TDIHomeworks\Lab3Ex5\obj\Debug\Lab3Ex5.csproj.CoreCompileInputs.cache
+D:\CSharp and dotNET classes\TDIHomeworks\Lab3Ex5\obj\Debug\Lab3Ex5.exe
+D:\CSharp and dotNET classes\TDIHomeworks\Lab3Ex5\obj\Debug\Lab3Ex5.pdb
